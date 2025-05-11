@@ -7,3 +7,4 @@ The lecture-wise mapping to the topics -
 - Lecture 1: Foundations of Python Programming and Tools for Object-Oriented Development
 - Lecture 2: Object-Oriented Programming in Python: Classes, Objects, and Algorithmic Efficiency
 - Lecture 3: Advanced Time Complexity Analysis: Master Theorem and Beyond
+- Lecture 4: Comprehensive Study of Sorting Algorithms: Concepts, Implementation and Analysis
