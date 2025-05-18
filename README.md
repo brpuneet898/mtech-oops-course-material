@@ -5,8 +5,12 @@ This repository contains the material for the Object Oriented Programming course
 ## Weeek 1
 
 - **Content** - Python Refresher, Virtual Environments, Type Hints
-- **Lab Component** - Set up Python Environment, Small coding exercises to refresh Python skills
+- **Lab Component** - 
 - **Reading Material** - Ramalho Ch. 1-4 
+
+## Week 2
+
+- **Content** - Objects and Namespaces, __init__ and __str__
 
 ## Textbook and References
 
