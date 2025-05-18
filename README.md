@@ -12,6 +12,10 @@ This repository contains the material for the Object Oriented Programming course
 
 - **Content** - Objects and Namespaces, __init__ and __str__
 
+## Week 3
+
+- **Reading Material** - Freeman Ch. 1-2
+
 ## Textbook and References
 
 ### Core Text
