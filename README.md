@@ -16,6 +16,10 @@ This repository contains the material for the Object Oriented Programming course
 
 - **Reading Material** - Freeman Ch. 1-2
 
+## Week 5
+
+- **Reading Material** - Dasgupta Ch. 1.1-1.2
+
 ## Textbook and References
 
 ### Core Text
