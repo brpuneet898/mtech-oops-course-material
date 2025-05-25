@@ -2,18 +2,21 @@
 
 This repository contains the material for the Object Oriented Programming course for MTech 2025. The course is designed to provide students with a comprehensive understanding of object-oriented programming concepts and principles. The subject was taught by Dr. Neelesh S. Upadhye at IIT Madras and delivered in July 2025 semester for MTech students.
 
-## Weeek 1
+## Week 1
 
 - **Content** - Python Refresher, Virtual Environments, Type Hints
-- **Lab Component** - 
+- **Lab Component** - Set‑up: small coding kata
 - **Reading Material** - Ramalho Ch. 1-4 
 
 ## Week 2
 
 - **Content** - Objects and Namespaces, __init__ and __str__
+- **Lab Component** - Design Point, Vector classes
+- **Reading Material** - Exercises 1‑3
 
 ## Week 3
 
+- **Lab Component** - Refactor Week‑2 code; unit tests with `pytest`
 - **Reading Material** - Freeman Ch. 1-2
 
 ## Week 5
