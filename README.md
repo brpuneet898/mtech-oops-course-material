@@ -16,6 +16,7 @@ This repository contains the material for the Object Oriented Programming course
 
 ## Week 3
 
+- **Content** - Encapsulation, properties, composition vs. inheritance
 - **Lab Component** - Refactor Week‑2 code; unit tests with `pytest`
 - **Reading Material** - Freeman Ch. 1-2
 
