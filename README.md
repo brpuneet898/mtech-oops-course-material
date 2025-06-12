@@ -20,6 +20,10 @@ This repository contains the material for the Object Oriented Programming course
 - **Lab Component** - Refactor Week‑2 code; unit tests with `pytest`
 - **Reading Material** - Freeman Ch. 1-2
 
+## Week 4
+
+- **Content** - SOLID principles, UML class diagrams
+
 ## Week 5
 
 - **Reading Material** - Dasgupta Ch. 1.1-1.2
