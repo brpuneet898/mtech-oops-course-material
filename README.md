@@ -31,7 +31,8 @@ This repository contains the material for the Object Oriented Programming course
 
 ## Week 6
 
-- **Reading Material** - Kleinberg Ch. 2 
+- **Content** - Insertion & selection sort
+- **Reading Material** - Kleinberg Ch. 2
 
 ## Textbook and References
 
