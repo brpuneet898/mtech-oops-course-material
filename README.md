@@ -26,6 +26,7 @@ This repository contains the material for the Object Oriented Programming course
 
 ## Week 5
 
+- **Content** - Algorithm analysis, linear & binary search
 - **Reading Material** - Dasgupta Ch. 1.1-1.2
 
 ## Textbook and References
