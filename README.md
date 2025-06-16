@@ -29,6 +29,10 @@ This repository contains the material for the Object Oriented Programming course
 - **Content** - Algorithm analysis, linear & binary search
 - **Reading Material** - Dasgupta Ch. 1.1-1.2
 
+## Week 6
+
+- **Reading Material** - Kleinberg Ch. 2 
+
 ## Textbook and References
 
 ### Core Text
