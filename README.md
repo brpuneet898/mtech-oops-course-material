@@ -6,11 +6,11 @@ This repository contains the material for the Object Oriented Programming course
 
 - **Content** - Python Refresher, Virtual Environments, Type Hints
 - **Lab Component** - Set‑up: small coding kata
-- **Reading Material** - Ramalho Ch. 1-4 
+- **Reading Material** - Ramalho Ch. 1-4
 
 ## Week 2
 
-- **Content** - Objects and Namespaces, __init__ and __str__
+- **Content** - Objects and Namespaces, `__init__` and `__str__`
 - **Lab Component** - Design Point, Vector classes
 - **Reading Material** - Exercises 1‑3
 
@@ -23,6 +23,7 @@ This repository contains the material for the Object Oriented Programming course
 ## Week 4
 
 - **Content** - SOLID principles, UML class diagrams
+- **Lab Component** - Draw UML from given repo; start TDD cycle
 
 ## Week 5
 
