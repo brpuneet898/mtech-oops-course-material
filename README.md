@@ -24,6 +24,7 @@ This repository contains the material for the Object Oriented Programming course
 
 - **Content** - SOLID principles, UML class diagrams
 - **Lab Component** - Draw UML from given repo; start TDD cycle
+- **Reading Material** - Freeman Ch. 3, Short blog excerpt (Kent C. Dodds), Class diagram of a simple Invoice aggregate ⟷ five pytest functions
 
 ## Week 5
 
