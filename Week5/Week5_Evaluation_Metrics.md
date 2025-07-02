@@ -72,4 +72,4 @@ Use the following metrics to evaluate submissions for the Week 5 Lab on Algorith
 
 ---
 
-**Note:** Partial credit can be awarded for incomplete or partially correct solutions. Encourage clear explanations and well-documented
+**Note:** Partial credit can be awarded for incomplete or partially correct solutions. Encourage clear explanations and well-documented.
