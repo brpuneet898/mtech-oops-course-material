@@ -36,6 +36,16 @@ This repository contains the material for the Object Oriented Programming course
 - **Content** - Insertion & selection sort
 - **Reading Material** - Kleinberg Ch. 2
 
+## Extra Reference Material
+
+- **log-log plot** - A log-log plot is a graphical representation where both axes are on a logarithmic scale. It is often used to visualize relationships between variables that span several orders of magnitude, such as the number of comparisons in binary search versus input size.
+- **Solid Principles Cheatsheet** - SOLID is an acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. The principles are:
+  - **S**: Single Responsibility Principle
+  - **O**: Open/Closed Principle
+  - **L**: Liskov Substitution Principle
+  - **I**: Interface Segregation Principle
+  - **D**: Dependency Inversion Principle
+
 ## Textbook and References
 
 ### Core Text
