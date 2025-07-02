@@ -29,11 +29,13 @@ This repository contains the material for the Object Oriented Programming course
 ## Week 5
 
 - **Content** - Algorithm analysis, linear & binary search
+- **Lab Component** - Implement & benchmark searches
 - **Reading Material** - Dasgupta Ch. 1.1-1.2
 
 ## Week 6
 
 - **Content** - Insertion & selection sort
+- **Lab Component** - Time‑plots with matplotlib
 - **Reading Material** - Kleinberg Ch. 2
 
 ## Extra Reference Material
