@@ -56,6 +56,10 @@ This repository contains the material for the Object Oriented Programming course
   - **I**: Interface Segregation Principle
   - **D**: Dependency Inversion Principle
 
+## Quiz 1
+
+- `quiz1_bank.md` - Contains a bank of questions for Quiz 1, covering topics such as Python virtual environments, iteration protocols, encapsulation, SOLID principles, and algorithm analysis.
+
 ## Textbook and References
 
 ### Core Text
