@@ -1,6 +1,6 @@
 # Material for Object Oriented Programming Course(MTech 2025)
 
-This repository contains the material for the Object Oriented Programming course for MTech 2025. The course is designed to provide students with a comprehensive understanding of object-oriented programming concepts and principles. The subject was taught by Dr. Neelesh S. Upadhye at IIT Madras and delivered in July 2025 semester for MTech students.
+This repository contains the material for the Object Oriented Programming course for MTech 2025. The course is designed to provide students with a comprehensive understanding of object-oriented programming concepts and principles. The subject was taught by Prof. Neelesh S. Upadhye at IIT Madras and delivered in July 2025 semester for MTech students.
 
 ## Week 1
 
@@ -37,6 +37,10 @@ This repository contains the material for the Object Oriented Programming course
 - **Content** - Insertion & selection sort
 - **Lab Component** - Time‑plots with matplotlib
 - **Reading Material** - Kleinberg Ch. 2
+
+## Capstone Project
+
+- `project_scope.md` - Defines the scope and deliverables for the capstone project, which involves applying advanced data structures and algorithms to solve a real-world problem.
 
 ## Extra Reference Material
 
