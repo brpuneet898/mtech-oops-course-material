@@ -38,6 +38,10 @@ This repository contains the material for the Object Oriented Programming course
 - **Lab Component** - Time‑plots with matplotlib
 - **Reading Material** - Kleinberg Ch. 2
 
+## Week 7
+
+- **Reading Material** - Goodrich Ch. 12, Inside the CPython Timsort (Tim Peters blog), Ramalho Ch 18, 2-page handout: strategy pattern refactor of a sorter
+
 ## Capstone Project
 
 - `project_scope.md` - Defines the scope and deliverables for the capstone project, which involves applying advanced data structures and algorithms to solve a real-world problem.
