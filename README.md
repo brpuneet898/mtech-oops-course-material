@@ -46,6 +46,10 @@ This repository contains the material for the Object Oriented Programming course
 
 - **Reading Material** - Goodrich Ch. 6, Ramalho Ch 6, PEP 585 summary, Short Summary on “Python Generics in Practice”, 2-page mini-exercise: design a Deque class with generics
 
+## Week 9
+
+- **Reading Material** - Goodrich Ch. 8, Dasgupta Ch. 4, Python `heapq` HOWTO excerpt, 2-page case study: heap-based job scheduler
+
 ## Capstone Project
 
 - `project_scope.md` - Defines the scope and deliverables for the capstone project, which involves applying advanced data structures and algorithms to solve a real-world problem.
