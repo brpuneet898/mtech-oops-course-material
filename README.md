@@ -45,6 +45,7 @@ This repository contains the material for the Object Oriented Programming course
 
 ## Week 8
 
+- **Content** - Stacks, queues, deques
 - **Reading Material** - Goodrich Ch. 6, Ramalho Ch 6, PEP 585 summary, Short Summary on “Python Generics in Practice”, 2-page mini-exercise: design a Deque class with generics
 
 ## Week 9
