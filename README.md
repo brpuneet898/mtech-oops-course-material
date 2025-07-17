@@ -40,6 +40,7 @@ This repository contains the material for the Object Oriented Programming course
 
 ## Week 7
 
+- **Content** - Merge‑ & quicksort; Timsort idea
 - **Reading Material** - Goodrich Ch. 12, Inside the CPython Timsort (Tim Peters blog), Ramalho Ch 18, 2-page handout: strategy pattern refactor of a sorter
 
 ## Week 8
