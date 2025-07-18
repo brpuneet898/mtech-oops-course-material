@@ -2,6 +2,8 @@
 
 This repository contains the material for the Object Oriented Programming course for MTech 2025. The course is designed to provide students with a comprehensive understanding of object-oriented programming concepts and principles. The subject was taught by Prof. Neelesh S. Upadhye at IIT Madras and delivered in July 2025 semester for MTech students.
 
+**Note** - The reading material prepared for each week is available. It is strictly meant for course-use only. Please do not share it outside the course context or redistribute it without permission.
+
 ## Week 1
 
 - **Content** - Python Refresher, Virtual Environments, Type Hints
