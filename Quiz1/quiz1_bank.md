@@ -12,17 +12,34 @@ b) To isolate project dependencies
 c) To encrypt source code  
 d) To compile Python to C  
 
-**Q2.** Which protocol must a Python object implement to be used in a for-loop?  
-a) `__getitem__`  
-b) `__call__`  
-c) `__iter__` and `__next__`  
-d) `__str__`
+**Q2.** Given the following class, which change will allow it to be used in a for-loop?
 
-**Q3.** Which dunder method is used to customize the behavior of `print(obj)`?  
-a) `__repr__`  
-b) `__add__`  
-c) `__str__`  
-d) `__init__`
+```python
+class Counter:
+    def __init__(self, low, high):
+        self.current = low
+        self.high = high
+```
+
+a) Add a `__call__` method  
+b) Add `__iter__` and `__next__` methods  
+c) Add a `__str__` method  
+d) Add a `__getitem__` method
+
+**Q3.** Which code will ensure that `print(obj)` outputs "Hello" for the following class?
+
+```python
+class MyClass:
+    pass
+
+obj = MyClass()
+print(obj)
+```
+
+a) Add a `def __repr__(self): return "Hello"` method  
+b) Add a `def __add__(self, other): return "Hello"` method  
+c) Add a `def __str__(self): return "Hello"` method  
+d) Add a `def __init__(self): print("Hello")` method
 
 **Q4.** What is the difference between immutable and mutable sequences in Python?  
 a) Immutable sequences cannot be iterated  
@@ -92,13 +109,13 @@ d) Subclasses must use composition
 
 > *Rationale:* Virtual environments allow each project to have its own dependencies, avoiding version conflicts and system pollution:contentReference[oaicite:0]{index=0}.
 
-**Q2.** c) `__iter__` and `__next__`  
+**Q2.** b) Add `__iter__` and `__next__` methods  
 
-> *Rationale:* The iteration protocol requires implementing `__iter__` (returns iterator) and `__next__` (returns next item):contentReference[oaicite:1]{index=1}.
+> *Rationale:* The iteration protocol requires implementing `__iter__` (returns iterator) and `__next__` (returns next item), enabling use in for-loops.
 
-**Q3.** c) `__str__`  
+**Q3.** c) Add a `def __str__(self): return "Hello"` method  
 
-> *Rationale:* `__str__` is for human-readable string representations, used by `print()`:contentReference[oaicite:2]{index=2}.
+> *Rationale:* Defining `__str__` customizes the output of `print(obj)` to return "Hello".
 
 **Q4.** c) Immutable sequences cannot be changed after creation  
 
