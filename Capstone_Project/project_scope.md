@@ -27,7 +27,9 @@ By the end of the project, teams will demonstrate their ability to design, imple
   - Problem statement
   - Chosen data structures/algorithms
   - Expected dataset/source of data
+- **29 Jul:** **Proposal feedback checkpoint** – Teams receive instructor feedback on proposals.
 - **Week 10:** Mid-sprint code review and a 5-minute progress demo
+- **26 Aug:** **Mid-sprint review checkpoint** – Formal review and feedback on progress.
 - **Week 14:** Final demo day and repo freeze
 
 ---
