@@ -50,6 +50,7 @@ This repository contains the material for the Object Oriented Programming course
 
 ## Week 9
 
+- **Content** - Trees: BST & AVL; heaps, priority queues
 - **Reading Material** - Goodrich Ch. 8, Dasgupta Ch. 4, Python `heapq` HOWTO excerpt, 2-page case study: heap-based job scheduler
 
 ## Capstone Project
