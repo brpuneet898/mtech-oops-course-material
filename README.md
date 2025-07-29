@@ -45,16 +45,19 @@ This repository contains the material for the Object Oriented Programming course
 ## Week 7
 
 - **Content** - Merge‑ & quicksort; Timsort idea
+- **Lab Component** - Refactor list sorter as strategy pattern
 - **Reading Material** - Goodrich Ch. 12, Inside the CPython Timsort (Tim Peters blog), Ramalho Ch 18, 2-page handout: strategy pattern refactor of a sorter
 
 ## Week 8
 
 - **Content** - Stacks, queues, deques
+- **Lab Component** - Generic stack/queue class w/ type hints
 - **Reading Material** - Goodrich Ch. 6, Ramalho Ch 6, PEP 585 summary, Short Summary on “Python Generics in Practice”, 2-page mini-exercise: design a Deque class with generics
 
 ## Week 9
 
 - **Content** - Trees: BST & AVL; heaps, priority queues
+- **Lab Component** - Implement BST, AVL, MinHeap, MaxHeap, and a job scheduler using heaps - mini project
 - **Reading Material** - Goodrich Ch. 8, Dasgupta Ch. 4, Python `heapq` HOWTO excerpt, 2-page case study: heap-based job scheduler
 
 ## Capstone Project
