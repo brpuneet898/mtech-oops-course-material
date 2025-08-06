@@ -60,6 +60,26 @@ This repository contains the material for the Object Oriented Programming course
 - **Lab Component** - Implement BST, AVL, MinHeap, MaxHeap, and a job scheduler using heaps - mini project
 - **Reading Material** - Goodrich Ch. 8, Dasgupta Ch. 4, Python `heapq` HOWTO excerpt, 2-page case study: heap-based job scheduler
 
+## Week 10
+
+- **Reading Material** - Goodrich Ch. 14.1 - 14.5, Dasgupta Ch. 4.1 - 4.3
+
+## Week 11
+
+- **Reading Material** - Goodrich Ch. 14.6 - 14.7, Dasgupta Ch. 4.4 - 4.7
+
+## Week 12
+
+- **Reading Material** - Goodrich Ch. 15, Dasgupta Ch. 2, Kleinberg Ch. 5
+
+## Week 13
+
+- **Reading Material** - Dasgupta Ch. 6, Kleinberg Ch. 6
+
+## Week 14
+
+- **Reading Material** - Ramalho Ch. 19 - 21
+
 ## Capstone Project
 
 - `project_scope.md` - Defines the scope and deliverables for the capstone project, which involves applying advanced data structures and algorithms to solve a real-world problem.
