@@ -63,26 +63,31 @@ This repository contains the material for the Object Oriented Programming course
 ## Week 10
 
 - **Content** - Graphs: BFS, DFS, topological sort
+- **Lab Component** - Visualise DFS/BFS with networkx
 - **Reading Material** - Goodrich Ch. 14.1 - 14.5, Dasgupta Ch. 4.1 - 4.3
 
 ## Week 11
 
 - **Content** - Shortest paths (Dijkstra), MST (Prim, Kruskal)
+- **Lab Component** - Path‑finding on transport graph
 - **Reading Material** - Goodrich Ch. 14.6 - 14.7, Dasgupta Ch. 4.4 - 4.7
 
 ## Week 12
 
 - **Content** - Divide‑&‑conquer; memoisation
+- **Lab Component** - Karatsuba multiplication; memoised coin‑change
 - **Reading Material** - Goodrich Ch. 15, Dasgupta Ch. 2, Kleinberg Ch. 5
 
 ## Week 13
 
 - **Content** - Dynamic programming (LIS, knapsack)
+- **Lab Component** - Profiling & optimisation with cProfile
 - **Reading Material** - Dasgupta Ch. 6, Kleinberg Ch. 6
 
 ## Week 14
 
 - **Content** - Concurrency (asyncio, multiprocessing); packaging & CI
+- **Lab Component** - Peer code‑review; capstone demos (No specific lab component under Week 14.)
 - **Reading Material** - Ramalho Ch. 19 - 21
 
 ## Capstone Project
