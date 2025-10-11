@@ -109,6 +109,11 @@ This repository contains the material for the Object Oriented Programming course
 - **Syllabus** - Week 1 to Week 3
 - `quiz1_bank.md` - Contains a bank of questions for Quiz 1, covering topics such as Python virtual environments, iteration protocols, encapsulation, SOLID principles, and algorithm analysis.
 
+## Quiz 2
+
+- **Syllabus** - Week 6 to Week 8
+- `quiz2.md` - Contains the Quiz 2 paper. 
+
 ## Textbook and References
 
 ### Core Text

@@ -11,6 +11,7 @@
 ## 1
 
 Which of the following statements about Python’s virtual environments is **true**? (1 marks)
+
 A. They globally install packages to avoid redundancy  
 B. They prevent version conflicts between projects  
 C. They remove the need for pip  
@@ -23,6 +24,7 @@ Answer: B
 ## 2
 
 In Python OOP, what is the primary purpose of the `__str__` method? (1 marks)
+
 A. To initialize object attributes  
 B. To provide a machine-readable string representation  
 C. To provide a human-readable string representation  
@@ -35,6 +37,7 @@ Answer: C
 ## 3
 
 Which SOLID principle states that a class should have only one reason to change? (1 marks)
+
 A. Open-Closed Principle  
 B. Single Responsibility Principle  
 C. Interface Segregation Principle  
@@ -47,6 +50,7 @@ Answer: B
 ## 4
 
 What is the **worst-case time complexity** of Binary Search? (1 marks)
+
 A. O(1)  
 B. O(n)  
 C. O(log n)  
@@ -59,6 +63,7 @@ Answer: C
 ## 5
 
 Which of the following properties makes **Timsort** particularly efficient for real-world datasets? (1 marks)
+
 A. It is always faster than Quicksort  
 B. It is unstable but adaptive  
 C. It combines Merge Sort and Insertion Sort to exploit runs  
