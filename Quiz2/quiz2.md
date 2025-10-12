@@ -3,7 +3,7 @@
 **Course:** Object Oriented Programming (MA5741)  
 **Maximum Marks:** 10  
 **Duration:** 30 minutes  
-**Type:** MCQ & MSQ (4 options each; some single-correct, others multiple-correct)
+**Type:** MCQ, NAT & MSQ (4 options each; some single-correct, others multiple-correct; for NAT write the correct answer)
 
 ---
 
@@ -46,7 +46,7 @@ D. Merge Sort uses O(1) auxiliary space for array inputs.
 
 ---
 
-### [MCQ 3]
+### [NAT 3]
 Evaluate the output:
 
 ```python
@@ -64,10 +64,7 @@ def process(data):
 print(process("AaBbCcDDc"))
 ```
 
-A. `""` 
-B. `"DDc"`
-C. `"d"` 
-D. `"dc"`
+Ans: 
 
 ---
 
@@ -114,7 +111,7 @@ D. Total swaps ≤ comparisons / 2.
 
 ---
 
-### [MCQ 7]
+### [NAT 7]
 Consider a recursive function:
 
 ```python
@@ -126,10 +123,7 @@ def fun(n):
 
 For `fun(6)`, how many frames exist **simultaneously** on the call stack at peak depth?
 
-A. 3 
-B. 4 
-C. 5 
-D. 6  
+Ans: 
 
 ---
 
