@@ -114,6 +114,11 @@ This repository contains the material for the Object Oriented Programming course
 - **Syllabus** - Week 6 to Week 8
 - `quiz2.md` - Contains the Quiz 2 paper. 
 
+## Quiz 3
+
+- **Syllabus** - Week 9 to Week 12
+- `quiz3.md` - Contains the Quiz 3 paper.
+
 ## Textbook and References
 
 ### Core Text
